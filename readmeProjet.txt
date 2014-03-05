@@ -1,0 +1,14 @@
+Projet C - Arborescences
+	->core/
+		->core/header/
+			->configCore.h
+			->tplBase.h
+		->configCore.c
+		->tplBase.c
+	->includes/
+		->includes/header/
+			->connexion.h
+		->includes/tpl/
+			->tplConnexion.c
+		->connexion.c
+	->main.c

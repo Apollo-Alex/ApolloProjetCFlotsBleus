@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1394026075 source:c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<myconio.h>
+	"header/cadreDesign.h"
+	"header/installFlotsBleus.h"
+	"baseStructures.c"
+
+1392808392 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\core\configcore.c
+	"header/configCore.h"
+	"tplBase.c"
+
+1392807962 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\core\header\configcore.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1392808392 source:c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\core\configcore.c
+	"header/configCore.h"
+	"tplBase.c"
+
+1392808632 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\core\tplbase.c
+	"header/tplBase.h"
+
+1392808632 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\core\header\tplbase.h
+
+1393398342 source:c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\includes\tpl.c
+
+1392809133 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\header\tpl.h
+
+1393398342 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\includes\tpl.c
+
+1393410686 source:c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\includes\struct.c
+	<stdio.h>
+	<stdlib.h>
+
+1393410686 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\includes\struct.c
+	<stdio.h>
+	<stdlib.h>
+
+1393958908 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\header\cadredesign.h
+
+1394020896 source:c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\basestructures.c
+
+1394024852 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\header\installflotsbleus.h
+
+1394020896 c:\users\apollo\desktop\alex\helha\apolloprojetcflotsbleus\basestructures.c
+

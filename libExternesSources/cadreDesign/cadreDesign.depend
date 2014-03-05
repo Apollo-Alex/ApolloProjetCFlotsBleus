@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1393959040 source:c:\users\apollo\desktop\alex\helha\cadredesign\main.c
+	<stdio.h>
+	<windows.h>
+

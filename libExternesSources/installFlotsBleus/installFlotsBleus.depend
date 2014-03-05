@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1394024837 source:c:\users\apollo\desktop\alex\helha\installflotsbleus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
